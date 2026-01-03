@@ -248,13 +248,13 @@
 		{"key":"csp_XYQHiker_taiav","name": "TaiAv🔞(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/taiav.json","style": {"type": "rect","ratio": 1.6}},
 		 {"key":"csp_XYQHiker_杏吧视频","name": "🔞杏吧视频(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/杏吧视频.json","style": {"type": "rect","ratio": 1.6}},
 		{"key": "奶香香","name": "🔞奶香香🌈","type": 1,"api": "https://naixxzy.com/api.php/provide/vod/from/naixx/","searchable": 1,"changeable": 1,"categories": [],"style": {"type": "rect","ratio": 1.6}},
-		
+		{"key":"PandaAV","name":"㊙️PandaAV","type":3,"api":"csp_XBPQ","jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/jar/xyqxbpq.jar","searchable":1,"style":{"ratio":1.43},"quickSearch":1,"filterable":1,"ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/PandaAV.json"},
 	  {
       "key": "PandaAV",
       "name": "㊙️PandaAV",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/KAN314go/yu/blob/main/tvbox/纯福利/jar/xyqxbpq.jar",
+      "jar": "https://proxy.v2gh.com/https://github.com/KAN314go/yu/tree/main/tvbox/%E7%BA%AF%E7%A6%8F%E5%88%A9/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
