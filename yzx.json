@@ -306,7 +306,34 @@
             "filterable": 1,
             "ext": "https://proxy.v2gh.com/https://github.com/yuanwangokk-1/TV-BOX/blob/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/live/live.txt"
         },
-
+ {
+            "key": "比卡",
+            "name": "比卡",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://proxy.v2gh.com/https://github.com/yuanwangokk-1/TV-BOX/blob/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "style": {
+                "ratio": 1.43
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://proxy.v2gh.com/https://github.com/yuanwangokk-1/TV-BOX/blob/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/比卡.json"
+        },
+	     {
+            "key": "Free",
+            "name": "㊙️|Free",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://proxy.v2gh.com/https://github.com/yuanwangokk-1/TV-BOX/blob/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "style": {
+                "ratio": 1.43
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://proxy.v2gh.com/https://github.com/yuanwangokk-1/TV-BOX/blob/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/Free.json"
+        },
 		{
 			"key": "market",
 			"name": "应用｜商店",
